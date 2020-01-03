@@ -22,3 +22,29 @@ section img{
     line-height: 12px;
     font-weight: 300;
   }
+
+  @media only screen and (max-width: 600px) {
+section{
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 90px;
+}
+section img{
+  
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+.caption{
+  font-size: 8px;
+  font-family: sans-serif;
+  line-height: 12px;
+  font-weight: 50;
+}
+.title{
+  font-size: 14px;
+  font-family: sans-serif;
+  line-height: 16px;
+  font-weight: 100;
+}
+  }

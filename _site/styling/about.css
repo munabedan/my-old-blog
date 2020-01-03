@@ -64,3 +64,35 @@ input[type=email], select, textarea {
     overflow: hidden;
     
   }
+  @media only screen and (max-width: 600px) {
+    
+section{
+    width:100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+.image img{
+    width: auto;
+    height: 360px;
+   margin: auto;
+}
+
+
+.about-content{
+    word-wrap: normal;
+   
+    width: 300px;
+   
+}
+.contact {
+    position: relative;
+    left: 0;
+    bottom: 0;
+   
+    width:100% ;
+    overflow: hidden;
+    
+  }
+  }
