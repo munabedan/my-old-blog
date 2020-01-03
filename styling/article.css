@@ -1,0 +1,24 @@
+section{
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+section img{
+  
+    margin-left: auto;
+    margin-right: auto;
+    width: 680px;
+}
+.title{
+    font-size: 34px;
+    font-family: sans-serif;
+    line-height: 38px;
+    font-weight: 600;
+  }
+
+  .caption{
+    font-size: 12px;
+    font-family: sans-serif;
+    line-height: 12px;
+    font-weight: 300;
+  }

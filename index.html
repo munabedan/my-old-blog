@@ -1,0 +1,24 @@
+---
+layout: home
+title: Blog
+---
+
+
+<div class="cards-layout">
+  {% for post in site.posts %}
+  
+  <a class="card" href="{{post.url}}"> 
+      <div class="card-image">
+        <img src="{{post.image}}">
+      </div>
+
+      <div class="card-caption">
+        <h2 class="card-title">{{post.title }}</h2>
+        <p class="card-excerpt">{{ post.date | date_to_string }} </p>
+        
+      
+      
+      </div>
+  </a>  
+  {% endfor %}
+</div>
