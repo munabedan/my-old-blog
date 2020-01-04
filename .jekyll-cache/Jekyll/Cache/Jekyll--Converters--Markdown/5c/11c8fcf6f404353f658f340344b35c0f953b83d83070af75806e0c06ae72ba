@@ -1,0 +1,17 @@
+I"Þ<h3 id="preface">Preface</h3>
+
+<p>I recently started web development and I thought it would be a good idea to make a blog -technically more like a journal- where i can write about stuff am up to, inspired by <a href="https://rusty.ozlabs.org/">Rusty Russellâ€™s Coding Blog</a> where he writes about what he has been working on.</p>
+
+<p>As a challange I thought I would start one from scratch , thats when I came accross the term static websites and to speak trully I wasnt really into the gist of getting into backend development.</p>
+
+<p>(Drum Roll)</p>
+<h3 id="enter-jekyll">Enter jekyll..</h3>
+
+<p>With the promise of a static site generation and support for markdown I got into the <a href="https://jekyllrb.com/docs/">documentation</a> and surely a few hours later i had a skeleton of a site up and running.</p>
+
+<p>I did enjoy the process and the results.</p>
+
+<h3 id="tldr">tl:dr;</h3>
+
+<p>I made this from scratch , something is propably broken, if found let me know about it.</p>
+:ET
