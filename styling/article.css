@@ -31,9 +31,9 @@ section{
 }
 section img{
   
-    margin-left: auto;
-    margin-right: auto;
-    width: 350px;
+   margin: 0px;
+    width: 85vw;
+    height: auto;
 }
 .caption{
   font-size: 8px;
