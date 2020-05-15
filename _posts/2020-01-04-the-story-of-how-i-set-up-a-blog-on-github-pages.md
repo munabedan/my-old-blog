@@ -2,7 +2,7 @@
 layout: post
 author: muna
 image: /assets/jekyllgithub.jpg
-
+readtime: 1 min read
 ---
 ### Preface
 
